@@ -1,1 +1,1 @@
-# Bank-Churing-
+# Bank-churning
